@@ -4,7 +4,7 @@
 "version": "2.0.0",
 "authors": [
   {
-    "name": "Mudueon",
+    "name": "Mudaranrhiod",
     "id": "807170846497570848"
   }
 ],
@@ -45,7 +45,7 @@
  "INTERACTIVE_MUTED": [ "#696779" ],
  "INTERACTIVE_NORMAL": [ "#BDBECC" ],
  "MENTION_BACKGROUND": [ "#DFBE804D" ],
- "MENTION_FOREGROUND": [ "#DFBE80" ],     
+ "MENTION_FOREGROUND": [ "#DFBE80" ],  
  "POLLS_VICTOR_FILL": [ "#D1B68133" ],   
  "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#474453" ],
  "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [ "#C3A16E" ],   
