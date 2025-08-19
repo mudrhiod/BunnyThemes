@@ -4,7 +4,7 @@
 "version": "2.0.0",
 "authors": [
   {
-    "name": "Mudaranrhiod",
+    "name": "Mudrhiod",
     "id": "807170846497570848"
   }
 ],
@@ -27,7 +27,7 @@
  "BG_BASE_PRIMARY": [ "#3F3E4A" ],
  "BG_BASE_SECONDARY": [ "#3F3E4A" ],
  "BG_BASE_TERTIARY": [ "#484654" ],
- "BG_MOD_SUBTLE": [ "#C4967A3E" ],
+ "BG_MOD_SUBTLE": [ "#CFC7D83E" ],
  "BG_BRAND": [ "#C3A16E" ], 
  "BG_SURFACE_RAISED": [ "#4B4957" ],   
  "BG_SURFACE_OVERLAY_TMP": [ "#474655" ], 
@@ -123,7 +123,7 @@
  "PLUM_13": "#5A4D5E",
  "PLUM_15": "#75748B",
  "PLUM_16": "#C88EAD",
- "PLUM_17": "#5A4D5E",
+ "PLUM_17": "#474453",
  "PLUM_18": "#3F3E4A",
  "PLUM_19": "#5A4D5E",   
  "PLUM_20": "#3F3E4A",
